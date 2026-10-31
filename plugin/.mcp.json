@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "qwl-stock-data": {
+      "command": "python3",
+      "args": [
+        "scripts/qwl_data_mcp.py"
+      ],
+      "cwd": "."
+    }
+  }
+}

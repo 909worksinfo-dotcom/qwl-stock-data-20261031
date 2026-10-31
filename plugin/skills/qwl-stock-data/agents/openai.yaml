@@ -1,0 +1,4 @@
+interface:
+  display_name: "QWL 60只股票全量数据"
+  short_description: "固定60只A/H股票的冻结、追加式周更、PIT校验与覆盖审计"
+  default_prompt: "使用 $qwl-stock-data 刷新或审计固定60只股票的数据；正式周更只追加本周版本，历史候选进入隔离区。"

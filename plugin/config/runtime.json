@@ -1,0 +1,7 @@
+{
+  "qwl_home": "/Users/bytedance/Desktop/bytedance/扣子/Trae对话/量化炒股Plugin-自选股/quant-watchlist-plugin",
+  "mode": "delegate_to_canonical_qwl_runtime",
+  "fixed_universe_size": 60,
+  "core_output_size": 12,
+  "maintenance_revision": "weekly-recovery.20261024"
+}
